@@ -12,7 +12,7 @@
 </p>
 
 - :computer: Currently, I'm deepening my knowledge in NodeJs
-- :blue_book: I am currently learning React Native
+- :blue_book: I am currently learning React
 
 <br>
 
