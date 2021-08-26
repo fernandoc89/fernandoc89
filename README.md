@@ -23,7 +23,7 @@
   <img align="left" alt="Fernando Cardoso | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="mailto:fernandocardoso@live.com">
-  <img align="left" alt="Fernando Cardoso | Twitter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Outlook_hi-res_icon_%282019%29.svg" />
+  <img align="left" alt="Fernando Cardoso | Email" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Outlook_hi-res_icon_%282019%29.svg" />
 </a>
 <a href="https://www.instagram.com/fernandoac89/">
   <img align="left" alt="Fernando Cardoso | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
@@ -33,7 +33,7 @@
 <br>
 <br>  
   
-### Stacks & Tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="32px" />
+### Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="32px" />
 <p>
 <a>
   <img alt="JavaScript" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
@@ -43,6 +43,9 @@
 </a>
 <a>
   <img alt="NodeJs" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+</a>
+   <a>
+  <img alt="ReactJs" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">
 </a>
 <a>
   <img alt="CSS" width="35px" height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
