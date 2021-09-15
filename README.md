@@ -1,18 +1,18 @@
-### Hi, I'm Fernando! 👋
+### Oi, meu nome é Fernando! 👋
 
 <p>
    <em>
-     Graduated in Information Systems at <a href="https://projecao.br/faculdade/"> <b>Centro Universitário Projeção</b>, Brasília/DF</a>.
+     Graduado pelo <a href="https://projecao.br/faculdade/"> <b>Centro Universitário Projeção</b>, Brasília/DF</a>.
   </em>
 </p>
 <p>
   <em>
-     The <b>Software Developer Jr</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> in seeking to encompass mine knowledge!
+    <b>Software Developer Jr</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> em buscar de abranger meus conhecimentos!
    </em>
 </p>
 
-- :computer: Currently, I'm deepening my knowledge in NodeJs
-- :blue_book: I am currently learning React
+- :computer: Atualmente aprofundando os estudos em NodeJs
+- :blue_book: Aprendendo mais de React
 
 <br>
 
