@@ -7,7 +7,7 @@
 </p>
 <p>
   <em>
-    <b>Software Developer Jr</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> buscando aumentar meus conhecimentos!
+    <b>Software Developer </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> buscando aumentar meus conhecimentos!
    </em>
 </p>
 
