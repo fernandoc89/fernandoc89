@@ -22,8 +22,8 @@
 <a href="https://www.linkedin.com/in/fernando-augusto-cardoso-977bb632/">
   <img align="left" alt="Fernando Cardoso | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="mailto:fernandocardoso@live.com">
-  <img align="left" alt="Fernando Cardoso | Email" width="35px" src="[https://commons.wikimedia.org/wiki/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg)" />
+<a href="mailto:fernanducardoso@gmail.com">
+  <img align="left" alt="Fernando Cardoso | Email" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 <a href="https://www.instagram.com/fernandoac89/">
   <img align="left" alt="Fernando Cardoso | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
