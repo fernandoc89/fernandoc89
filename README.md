@@ -33,7 +33,7 @@
 <br>
 <br>  
   
-### Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="32px" />
+### Stack
 <p>
 <a>
   <img alt="JavaScript" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
