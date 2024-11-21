@@ -23,7 +23,7 @@
   <img align="left" alt="Fernando Cardoso | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="mailto:fernandocardoso@live.com">
-  <img align="left" alt="Fernando Cardoso | Email" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Outlook_hi-res_icon_%282019%29.svg" />
+  <img align="left" alt="Fernando Cardoso | Email" width="35px" src="[https://commons.wikimedia.org/wiki/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg)" />
 </a>
 <a href="https://www.instagram.com/fernandoac89/">
   <img align="left" alt="Fernando Cardoso | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
@@ -32,7 +32,8 @@
 
 <br>
 <br>  
-  
+<br>  
+
 ### Stack
 <p>
 <a>
